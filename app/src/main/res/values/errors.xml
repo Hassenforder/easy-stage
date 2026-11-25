@@ -1,0 +1,10 @@
+<resources>
+    <string name="value_empty">Value is empty</string>
+    <string name="value_blank">Value is blank</string>
+    <string name="value_negative_forbidden">Negative value is forbidden</string>
+    <string name="value_zero_forbidden">Zero value is forbidden</string>
+    <string name="value_too_short">Value is too short</string>
+    <string name="value_too_long">Value is too long</string>
+
+    <string name="no_seat_type_selected" >All seats are not typed </string>
+</resources>

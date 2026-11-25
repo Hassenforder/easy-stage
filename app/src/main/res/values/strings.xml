@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Easy Stage</string>
+    <string name="app_short">Stage</string>
+
+    <string name="title_building">Building</string>
+    <string name="title_buildings">Buildings</string>
+    <string name="title_chamber">Chamber</string>
+    <string name="title_chambers">Chambers</string>
+    <string name="title_settings">settings</string>
+    <string name="title_create">Create</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_list">List</string>
+    <string name="title_seat_type_select">Select a Seat Type</string>
+    <string name="title_seat_state_select">Select a Seat State</string>
+    <string name="action_buildings">buildings</string>
+    <string name="action_settings">settings</string>
+    <string name="action_structuring">Structuring</string>
+    <string name="action_seat_typing">Typing</string>
+
+    <string name="populate">populate</string>
+    <string name="clear">clear</string>
+
+    <string name="name">Name</string>
+    <string name="picture">Picture</string>
+
+    <string name="chambers">Chambers</string>
+    <string name="seats">Seats</string>
+    <string name="nb_row">Number of row</string>
+    <string name="nb_column">Number of column</string>
+    <string name="empty">empty</string>
+    <string name="title_state">State</string>
+    <string name="action_performing">Performing</string>
+    <string name="free">free</string>
+
+
+</resources>
